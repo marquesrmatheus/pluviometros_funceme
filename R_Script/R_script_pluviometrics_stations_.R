@@ -69,18 +69,3 @@ glimpse(p734)
 
 #Your dataframe already ok for while!
 ----------------------------------------------------------------------------------------------------
-
-colSums(data$Total)
-
-summary.data.frame(p1)
-sum(p1$Total)
-plot(p1$Anos,p1$Total)
-library(ggplot2)
-qplot(Anos,Total,data=p1, 
-      geom= "point",
-      xlab= expression(" Anos " ~(tempo)),
-      ylab= expression(" Totais anuais " ~(mm)),
-      size=I(2))+
-  theme_bw()
-anosp1 <- colSums(p1$Total)
-Error

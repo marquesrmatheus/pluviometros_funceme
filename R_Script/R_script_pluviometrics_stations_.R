@@ -1,5 +1,5 @@
 #' ---
-#' title: Working with .txt files from Pluviometric FUNCEME stations in R software. Example: 
+#' title: Working with .txt files from Pluviometric FUNCEME stations in R software.
 #' author: José Matheus da Rocha Marques (@marquesrmatheus)
 #' last update: 2020-05-29
 #' ---
